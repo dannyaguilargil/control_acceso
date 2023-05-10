@@ -1,0 +1,18 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+body{
+    background: #ad3333 ;
+}
+body nav{
+    background: white;
+    color: #DADADA;
+}
+body nav ul li{
+    color: #DADADA;
+}
+a:hover{
+    background: #DADADA ;
+   
+}
