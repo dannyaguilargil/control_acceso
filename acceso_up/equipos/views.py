@@ -8,3 +8,6 @@ def bitacora(request):
 
 def monitoreo(request):
     return render(request,'monitoreo.html')
+
+def reportes(request):
+    return render(request,'reportes.html')
